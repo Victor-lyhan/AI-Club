@@ -1,4 +1,7 @@
 # AI-Club
 ## Used for ai-club projects
 ### Club board
-* Bijal, Victor, Asahi, Kevin
+* Co-presidents: Victor, Bijal, Asahi, Kevin
+### Club Mission
+* TBD
+### Club Members
