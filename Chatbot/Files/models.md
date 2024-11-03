@@ -1,5 +1,5 @@
 ## Models
-### These are the models that maybe be needed to develop our custom chatbot:
+### These are the models that may be needed to develop our custom chatbot:
 
 ### AI
 
